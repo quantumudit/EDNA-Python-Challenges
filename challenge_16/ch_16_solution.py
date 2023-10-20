@@ -28,7 +28,7 @@ plt.style.use("cyberpunk")
 
 
 # Create a figure and axis
-fig = plt.figure(figsize=(8, 5), facecolor='#EAEEF1')
+fig = plt.figure(figsize=(8, 5))
 ax = fig.add_subplot()
 
 # Plot
